@@ -1,0 +1,30 @@
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\bin\WsHaciendaCR.dll.config
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\bin\WsHaciendaCR.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\bin\WsHaciendaCR.pdb
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\obj\Debug\WsHaciendaCR.csproj.CoreCompileInputs.cache
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\obj\Debug\WsHaciendaCR.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\obj\Debug\WsHaciendaCR.pdb
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\bin\Newtonsoft.Json.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\bin\Newtonsoft.Json.xml
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\bin\BouncyCastle.Crypto.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\bin\FirmaXadesNet.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\bin\Microsoft.Xades.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\bin\BouncyCastle.Crypto.pdb
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\obj\Debug\WsHaciendaCR.csprojResolveAssemblyReference.cache
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\WsHaciendaCR\bin\WsHaciendaCR.dll.config
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\WsHaciendaCR\bin\WsHaciendaCR.dll
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\WsHaciendaCR\bin\WsHaciendaCR.pdb
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\WsHaciendaCR\bin\BouncyCastle.Crypto.dll
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\WsHaciendaCR\bin\FirmaXadesNet.dll
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\WsHaciendaCR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\WsHaciendaCR\bin\Microsoft.Xades.dll
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\WsHaciendaCR\bin\Newtonsoft.Json.dll
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\WsHaciendaCR\bin\BouncyCastle.Crypto.pdb
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\WsHaciendaCR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\WsHaciendaCR\bin\Newtonsoft.Json.xml
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\WsHaciendaCR\obj\Debug\WsHaciendaCR.csprojResolveAssemblyReference.cache
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\WsHaciendaCR\obj\Debug\WsHaciendaCR.csproj.CoreCompileInputs.cache
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\WsHaciendaCR\obj\Debug\WsHaciendaCR.dll
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\WsHaciendaCR\obj\Debug\WsHaciendaCR.pdb

@@ -1,0 +1,36 @@
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2015\hacienda-cr\hacienda-cr\AppTributariaCr\TributarioCr\obj\Debug\TributarioCr.csprojResolveAssemblyReference.cache
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2015\hacienda-cr\hacienda-cr\AppTributariaCr\TributarioCr\obj\Debug\TributarioCr.csproj.CoreCompileInputs.cache
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2015\hacienda-cr\hacienda-cr\AppTributariaCr\TributarioCr\bin\Debug\TributarioCr.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2015\hacienda-cr\hacienda-cr\AppTributariaCr\TributarioCr\bin\Debug\TributarioCr.pdb
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2015\hacienda-cr\hacienda-cr\AppTributariaCr\TributarioCr\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2015\hacienda-cr\hacienda-cr\AppTributariaCr\TributarioCr\bin\Debug\FirmaXadesNet.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2015\hacienda-cr\hacienda-cr\AppTributariaCr\TributarioCr\bin\Debug\Microsoft.Xades.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2015\hacienda-cr\hacienda-cr\AppTributariaCr\TributarioCr\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2015\hacienda-cr\hacienda-cr\AppTributariaCr\TributarioCr\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2015\hacienda-cr\hacienda-cr\AppTributariaCr\TributarioCr\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2015\hacienda-cr\hacienda-cr\AppTributariaCr\TributarioCr\obj\Debug\TributarioCr.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2015\hacienda-cr\hacienda-cr\AppTributariaCr\TributarioCr\obj\Debug\TributarioCr.pdb
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\TributarioCr\bin\Debug\TributarioCr.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\TributarioCr\bin\Debug\TributarioCr.pdb
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\TributarioCr\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\TributarioCr\bin\Debug\FirmaXadesNet.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\TributarioCr\bin\Debug\Microsoft.Xades.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\TributarioCr\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\TributarioCr\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\TributarioCr\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\TributarioCr\obj\Debug\TributarioCr.csproj.CoreCompileInputs.cache
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\TributarioCr\obj\Debug\TributarioCr.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\TributarioCr\obj\Debug\TributarioCr.pdb
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\TributarioCr\obj\Debug\TributarioCr.csprojResolveAssemblyReference.cache
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\TributarioCr\bin\Debug\TributarioCr.dll
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\TributarioCr\bin\Debug\TributarioCr.pdb
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\TributarioCr\bin\Debug\BouncyCastle.Crypto.dll
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\TributarioCr\bin\Debug\FirmaXadesNet.dll
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\TributarioCr\bin\Debug\Microsoft.Xades.dll
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\TributarioCr\bin\Debug\Newtonsoft.Json.dll
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\TributarioCr\bin\Debug\BouncyCastle.Crypto.pdb
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\TributarioCr\bin\Debug\Newtonsoft.Json.xml
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\TributarioCr\obj\Debug\TributarioCr.csprojResolveAssemblyReference.cache
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\TributarioCr\obj\Debug\TributarioCr.csproj.CoreCompileInputs.cache
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\TributarioCr\obj\Debug\TributarioCr.dll
+D:\Proyects\NeoSolucionesCR\AppTributariaCr\TributarioCr\obj\Debug\TributarioCr.pdb

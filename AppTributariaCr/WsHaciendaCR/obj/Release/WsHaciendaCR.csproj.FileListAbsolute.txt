@@ -1,0 +1,15 @@
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\bin\WsHaciendaCR.dll.config
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\bin\WsHaciendaCR.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\bin\WsHaciendaCR.pdb
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\bin\Newtonsoft.Json.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\bin\Newtonsoft.Json.xml
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\obj\Release\WsHaciendaCR.csprojResolveAssemblyReference.cache
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\obj\Release\WsHaciendaCR.csproj.CoreCompileInputs.cache
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\obj\Release\WsHaciendaCR.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\obj\Release\WsHaciendaCR.pdb
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\bin\BouncyCastle.Crypto.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\bin\FirmaXadesNet.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\bin\Microsoft.Xades.dll
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\AppTributaria\AppTributaria\hacienda-cr\AppTributariaCr\WsHaciendaCR\bin\BouncyCastle.Crypto.pdb

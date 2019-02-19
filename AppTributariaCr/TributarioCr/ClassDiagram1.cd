@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="TributarioCr.ConsumidorApi">
+    <Position X="0.75" Y="0.5" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="TributarioCr.ConsumidorApi.Token" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ConsumidorApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="TributarioCr.ConsumidorApi.Validacion" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ConsumidorApi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAIAAAAIAAAAAAAAAAIAAAAQYAACAIAA=</HashCode>
+      <FileName>ConsumidorApi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TributarioCr.CreadorFactura">
+    <Position X="4.75" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AEgAAIAAAEAAAAAAAAAAAACAAAAIAAAAACAAAAAAAAA=</HashCode>
+      <FileName>CreadorFactura.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TributarioCr.FirmaXadesEpes">
+    <Position X="4.75" Y="3.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>FirmaXadesEpes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TributarioCr.CreadorComprobante">
+    <Position X="8" Y="3.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAIAAAAAAAAAAAAAAAAAAkAAAAAAAA=</HashCode>
+      <FileName>CreadorComprobante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TributarioCr.EsquemaComprobante">
+    <Position X="11.5" Y="3.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="TributarioCr.EsquemaComprobante.EmisorType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>EsquemaComprobante.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="TributarioCr.EsquemaComprobante.ReceptorType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>EsquemaComprobante.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAIAAAAAAAAAAAAQAAAAAAAAAAQAAAAAAI=</HashCode>
+      <FileName>EsquemaComprobante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TributarioCr.Transferencia">
+    <Position X="14" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAgCAYAAgAIABAACAAABgHwAAZB8BQABgCAAAAAI=</HashCode>
+      <FileName>Transferencia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
